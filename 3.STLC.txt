@@ -1,0 +1,95 @@
+STLC Overview:
+---------------------
+--> Software Testing Life Cycle (STLC) is defined as a sequence of activities conducted to perform Software Testing.
+--> Each of these stages have a definite Entry and Exit criteria; 
+
+Entry Criteria:
+-------------------
+Entry Criteria gives the prerequisite items that must be completed before testing can begin.
+
+Exit Criteria: 
+-----------------
+Exit Criteria defines the items that must be completed before testing can be concluded.
+
+Phases of STLC:
+---------------------
+1.Requirement Analysis
+2.Test Planning
+3.Test Design
+4.Test execution
+5.Sign Off
+
+
+1.Requirement Analysis:
+------------------------------
+Entry Criteria: BR Document and Design Specification Document
+
+--> Understanding the requirements
+--> Clarification of doubts in query logs through walkthrough session
+--> Identify types of tests to be performed
+--> Get application access
+
+Exit Criteria: Finalized scope.
+
+
+2.Test Planning: 
+--------------------
+Entry Criteria: Finalized scope
+
+--> Done by testing team lead
+--> Preparation of test plan document for various types of testing
+--> Inscope and Outscope
+--> Test tool selection  
+--> Date Calculation
+--> Resource planning
+
+Exit Criteria: Test Plan Document.
+
+
+3.Test Design:
+-----------------
+Entry Criteria: Test Plan Document
+
+--> Create test case document with test scenario, test case and test data
+--> Review test cases with peer or lead
+--> Get Approval from BA
+--> Automation testers will do skeleton script
+--> RTM(Requiremnet Tracability Matrix) will be done by Testing Team Lead
+
+Exit Criteria: Test Case Document, RTM.
+
+
+4.Test Execution:
+----------------------
+Entry Criteria: Test Case Document, RTM
+
+--> Execute tests as per plan
+--> Raise defects and Track the defects to closure
+--> Document test results, and log defects for failed cases 
+
+Exit Criteria: Execution  Result, Defect Log.
+
+
+5.Sign Off:
+---------------
+Entry Criteria: Execution  Result, Defect Log
+
+--> Will be done by Testing Team Manager
+--> Test result analysis
+--> Evaluate cycle completion
+--> Prepare Test closure report 
+
+
+Exit Criteria: Closure Document.
+
+
+
+
+
+
+
+
+
+
+
+

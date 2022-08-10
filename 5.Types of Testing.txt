@@ -1,0 +1,70 @@
+Different Types of Testing:
+---------------------------------
+
+White Box Testing:
+------------------------
+It is based on applications internal coding knowledge. It is done by developers. White Box Testing is also called as 
+Glass Box, Clear Box, and Structural Testing. 
+
+Black Box Testing:
+-----------------------
+Testers evaluate the functionality of the software without looking at the internal coding knowledge. It is done by testers.
+
+Positive Testing:
+--------------------
+It is to determine what system supposed to do.
+ It helps to check whether the application is justifying the requirements or not.
+
+Negative Testing:
+----------------------
+It is to determine what system not supposed to do. It helps to find the defects from the software.
+
+Formal Testing:
+--------------------
+It is a process where the testers test the application by having pre-planned procedures and proper documentation.
+
+Informal Testing:
+----------------------
+It is a process where the testers test the application without having any pre-planned procedures and proper documentation.
+
+Monkey Testing:
+---------------------
+Perform abnormal action on the application deliberately in order to verify the stability of the application.
+
+ReTesting:
+-------------
+Once the developer fix the bug and we need to test again whether the bug is fixed or not.
+
+Smoke Testing:
+-------------------
+Smoke Testing is done to make sure if the build we received from the development team is testable or not. 
+It is also called as “Day 0” check. It is done at the “build level”. It helps not to waste the testing time to simply testing the 
+whole application when the key features don’t work.
+
+Regression Testing:
+------------------------
+It is done to make sure the existing functionalities of the application is not impacted whenever any new functionalities is added
+to the application.
+
+Sanity Testing:
+-------------------
+Sanity Testing is done during the release phase to check for the main functionalities of the application without going deeper. 
+It is also called as a subset of Regression testing. It is done at the “release level”. 
+At times due to release time constraints regression testing can’t be done to the build, sanity testing does that part 
+by checking main functionalities.
+
+Beta Testing:
+-----------------
+Beta testing is done by a limited number of end users before delivery. Usually, it is done in the client place.
+
+Live Environment Testing:
+---------------------------------
+It it nothing but testing the application in live environment (i.e) After Release.
+
+
+
+
+
+
+
+

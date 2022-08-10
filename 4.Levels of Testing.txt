@@ -1,0 +1,72 @@
+Test Scenario:
+-----------------
+It is high level Testcase. It is an idea of what we are going to test.
+
+Test Case:
+-------------
+It is an idea of how we are going to test, it includes tc name, test data, expected & actual results,status,etc.
+
+Test Data:
+-------------
+The actual input which we are going to use in the application for testing.
+
+Defect:
+---------
+When the expected and actual is not matching, then it is a defect. In other words, when the application does not conform to the
+requirement specification.
+
+Bug:
+------
+When the tester raise a defect to developer then it is called as bug
+
+
+Levels of Testing:
+----------------------
+
+--> The testing done at various levels and by whom it is done is called Levels of Testing.
+--> There are 4 levels of testing. If theses 4 levels of testing is completed only, we can say the application is ready for release.
+
+1.Unit Testing - Developers
+2.Integration Testing - Testers with help of developers
+3.System Testing - Testers
+4.Acceptance Testing - Client
+
+
+1.Unit Testing:
+------------------
+--> Testing an individual module in an application
+--> Done by Developers 
+--> Test based on White Box Testing Technique.
+
+
+2.Integration Testing:
+---------------------------
+--> Combining or merging two modules
+--> Done by Testers with the help of developers
+--> Test based on Black Box Testing Techniques
+--> Top-down Approach - Higher level combinations of units
+--> Bottom-up Approach -  Lower level combinations of units
+--> Big Bang Approach - Combining all combination of units
+
+
+3.System Testing:
+---------------------
+--> Complete Application Testing
+--> Done by Testers
+--> Test based on Black Box Testing Technique
+--> Types of System Testing:
+	--> Functional Testing - To test the functionalities of the application
+	--> Usability Testing - To test whether the application is user friendly and it is easily understandable
+	--> Performance Testing - To test whether the application is not getting crashed or down when there is load/stress
+	--> Security Testing - To test whether the application is secure or not
+--> If theses 4 types of testing is completed only, we can say system testing is completed.
+
+
+4.Acceptance Testing:
+---------------------
+--> Satisfying client requirement
+--> Done by client side
+--> Getting approval from client
+--> Testing will be done at Development/Testing Environment
+
+

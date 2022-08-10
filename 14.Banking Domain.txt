@@ -1,0 +1,44 @@
+Banking Domain:
+----------------------
+-->Process involved in Banks
+-->Select any of the country bank which should not be familiar among us except Asia.
+
+In banking there several business operations like
+-->Core Banking system
+-->ATM Banking
+-->Internet Banking System
+-->Asset liability management system
+
+Main Modules:
+-------------------
+-->Admin (Login)
+-->Personal Banking
+-->Corporate Banking
+
+Personal Banking:
+-----------------------
+Modules:
+------------
+-->Accounts
+	-->Account Details
+	-->Statement
+-->Payments
+	-->Money Transfer
+	-->Recharges
+	-->Pay Bills
+-->Profile
+	-->Customer details
+	-->Offers
+-->Services
+	-->Account services
+	-->Cheque Services
+	-->Credit card Services
+	-->Loan Services
+	-->Tax Services
+-->Credit Cards
+	-->Credit card Details
+	-->Pay Credit card bills
+-->Loans
+	-->Loan details
+	-->Pay EMI
+	-->Loan Eligibility

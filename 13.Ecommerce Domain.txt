@@ -1,0 +1,79 @@
+Ecommerce Domain:
+--------------------------
+Online Purchaing Websites
+	Example:Amazon, Flipkart, Snapdeal
+
+Select any online purchasing websites which should not be familiar among us.
+
+
+Modules:
+------------
+-->Purchasing Module - End to End purchasing a product
+-->Login Module - Credentials given by the website
+-->Cart Module - Managing our purchasing
+-->Product List Module - List of products available in the website
+
+
+Purchasing Module:
+--------------------------
+1.Home Page:
+-----------------
+-->Hero Image
+-->Search Product 
+	-->By providing product name
+	-->By clicking on product list
+	-->By clicking the offers available
+	-->By clicking on our preferred products available
+
+
+2.Search Result Page:
+----------------------------
+-->List of searched products avaliable 
+-->Product Details wit different brands
+-->Image
+-->Price
+-->Offers
+-->Review
+-->Filters
+-->Multiple pages available
+
+
+3.Product Details Page:
+-----------------------------
+-->Detailed information of the selected product
+-->Offers available for the selected product
+-->Additional Images of the selected product
+-->Review of the selected product
+-->Delivery Options
+-->Shipping Information
+-->In Stock/Out of Stock
+-->Add to Cart
+
+
+4.Shopping Cart Page:
+----------------------------
+-->Selected product is added
+-->No of products
+-->Total amount with delivery charges and discounts
+-->Add a product
+-->Remove a product
+
+
+5.Payment Page:
+----------------------
+-->Purchase by Guest or Login 
+-->Address
+-->Shipping amount with different shipping options
+-->Different Payment Options
+-->Storing card details
+-->Session timeout if signed up for a long time
+-->Email/SMS confirmation
+
+
+6.My Orders:
+-------------
+-->Change the order
+-->Cancel the order
+-->Track the order
+-->Returns
+

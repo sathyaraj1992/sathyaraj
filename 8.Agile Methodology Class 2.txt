@@ -1,0 +1,85 @@
+Different Artifacts used in Agile:
+----------------------------------------
+-->Userstory:
+     -------------
+	They are short explanation of functionalities of the system under test.	
+
+--> Acceptance Crtieria:
+      --------------------------
+            	They are detailed explanation of functionalities of the system under test which is going to shows what we have to do.
+
+--> Product Backlog: 
+      ----------------------
+	It is a collection of user stories captured for a scrum product.
+        The product owner prepares and maintains the product backlog. It is prioritized by product owner.
+	
+--> Sprint:
+      ---------
+	It is a set period of time to complete the user stories, decided by product owner,usually 2-3 weeks of time.	
+
+--> Sprint Backlog:
+      --------------------
+	It's a set of user stories to be completed in a sprint from the product backlog.
+
+--> BurnUp and Burndown Chart:
+    -----------------------------------------
+	The burn-up chart illustrates the amount of completed work in a project whereas the burn-down chart depicts the amount 
+        of work remained to complete a project. Thus, the burn-up and burn-down charts are used to trace the progress of a project.
+
+Agile Ceremonies or Meetings:
+---------------------------------------
+1.Sprint Groooming:
+---------------------------
+	-->Here the product owner will have already prioritized product backlog.
+	-->Product Owner will be explaining the user stories.
+	-->To understand the user stories.
+	-->Meeting Duration - 1 hour.
+	-->Attended by - Product Owner, Scrum Master and Scrum Team.
+
+2.Sprint Planning:
+-----------------------
+	-->Userstory points will be given by developers.
+	-->Complexity of the user stories will be estimated based on Poker Card Technique. 
+	-->Work is selected from the Product Backlog and pulled into the Sprint Backlog.
+	-->Meeting Duration - 1 to 3 hours.
+	-->Attended by - Scrum Master and Scrum Team.
+
+		       
+-----------------------|Before Sprint|----------------------------------------------------------------------------------
+
+
+3.Daily Scrum Meeting (or) Daily Stand up calls:
+-------------------------------------------------------------
+	-->Stand-up is designed to quickly inform everyone of what's going on across the team.
+	-->It's not a detailed status meeting. Following will be discussed in that meeting
+		--> What did I complete yesterday?
+		--> What will I work on today?
+		--> Am I blocked by anything?
+	-->Meeting Duration - 15 minutes.
+	-->Attended by - Scrum Master and Scrum Team.
+
+
+-----------------------|After Sprint|--------------------------------------------------------------------------------------
+
+	
+4.Sprint Review Meeting:
+--------------------------------
+	-->After completion of every sprint, Team will give the showcase to the product owner.
+	-->Scrum team will show the demo of app with current sprint's completed stories.
+	-->Meeting Duration - 1 hour.
+	-->Attended by - Product Owner, Scrum Master and Scrum Team.
+
+
+5.Sprint Retrospective Meeting:
+----------------------------------------
+	-->Retrospectives help the team to understand what worked well–and what didn't.
+	-->Team will rate the sprint out of 10 and discuss the below
+		--> What went right?
+		--> What went wrong?
+		--> What can be done better for next sprint?
+	-->Meeting Duration - 1 hour.
+	-->Attended by - Scrum Master and Scrum Team.
+
+
+
+	

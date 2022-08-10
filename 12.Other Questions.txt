@@ -1,0 +1,151 @@
+Other Important Questions:
+--------------------------
+
+1.Outsprint or n-1 Sprint:
+--------------------------
+-->To automate user stories for the previous sprint, is called out-sprint automation.
+-->Consider there were few User stories from previous Sprint which could be automated. 
+-->We will automate it in next sprint, which is called as n-1 or outsprint automation.
+
+2.Insprint in Agile:
+--------------------
+-->To develop and automate user stories in the same sprint, is called in-sprint automation.
+-->Consider there were few user stories in a sprint which could be automated then, we will be writing skeleton scripts untill the       developer develop the application. 
+-->Once the build is delivered to testing team, after that we will execute the scripts.
+
+3.Velocity:
+-------------
+-->Total Number of user story points consider in a particular sprint (We can say 40 Points)
+
+4.Risk Based Testing:
+---------------------
+-->Identifying the functionalities which seems to cause failures to the application and then testing those functionalities.
+
+5.Bug Leakage:
+---------------
+-->Bug which is missed by the testing team while testing and if it is found by the end user or customer in Live Environment.
+
+6.Bug Release:
+--------------
+-->Releasing the application to the Live Environment with the known bugs then we call it as Bug Release. 
+
+7.Defect Age:
+-------------
+-->It is the time interval between date of defect detection and date of defect closure. 
+-->Defect Age = Date of defect closure – Date of defect detection.
+
+8.HotFix:
+---------
+-->A bug which needs to handle as more than high priority bug and needs to be fix it immediately.
+
+9.RTM:
+------
+-->Requirements Traceability Matrix (RTM) is used to trace the requirements are done by the testing side by matching 
+   the requirement with test cases.
+
+10.Test Suite:
+--------------
+-->Test Suite is a collection of test cases.
+
+11.Test Environment:
+--------------------
+-->It is the combination of hardware and software on which Test Team performs testing.
+
+12.Test Strategy:
+------------------
+-->Documents like Test Plan are prepared by keeping this document as a base.
+-->It is done by project manager.
+-->It is a high-level document which captures the approach on how we go about testing the product and achieve the goals.
+
+13.Exploratory Testing:
+------------------------
+-->Usually, this process will be carried out by domain experts. 
+-->They perform testing just by exploring the functionalities of the application without having the knowledge of the requirements. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Important Questions:
+---------------------------
+
+• 7 principles of software testing?
+• Draw and explain SDLC?
+• Draw and explain STLC?
+• What is the difference between severity and priority?
+• What you mean by test plan, test scenario, test case?
+• What you mean by RTM?
+• Draw and explain defect life cycle?
+• What is difference between functional and non-functional testing?
+• What you mean by usability testing?
+• What is mean by accessibility testing?
+• What are the different automation tools we have in market?
+• What is defect management tool used in your project?
+• Draw and explain water fall model?
+• Difference between regression and re testing?
+• Difference between black box and white box testing?
+• Explain equivalence case partitioning techniques with an example?
+• Explain Decision table with an example?
+• Explain state transition technique with an example?
+• Explain boundary value analysis with an example?
+• Explain error guessing?
+• Difference between formal and informal testing?
+• Explain Ad-hoc testing?
+• What is positive and negative testing?
+• What is test strategy?
+• What is test suite?
+• What is test environment?
+• What is test data?
+• What is test closure (or) sign off?
+• What is unit testing?
+• What is integration testing?
+• What is system testing?
+• What is beta testing?
+• What is smoke testing?
+• What is sanity testing?
+• What is monkey testing?
+• What is security testing?
+• What is performance testing?
+• What is walk- through?
+• What is bug leakage?
+• What is bug release?
+• What is Defect Age?
+• Give an example all the four categories of priority and severity?
+
+
+
+• What is the last userstory/functionality you worked on your project?
+• Write 5 defects which you raised in your project?
+
+
+
+• What is the current sprint you are working?
+• What is the total number of sprints so far in your project?
+
+• How many test cases manually we can prepare in a day?
+• How many test cases manually we can execute in a day?
+• How many automation test scripts we can prepare in a day?
+• How many automation test scripts we can execute in a day?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

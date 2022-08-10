@@ -1,0 +1,30 @@
+			Ecommerce Domain Explanation
+		--------------------------------------------
+-->I had worked in an ecommerce domain. Its a leading online purchasing webiste in US. 
+-->In my project there are several modules such as Login,Add to Cart, Product Booking,etc. 
+-->In that I worked in product Booking Module. 
+-->As a manual tester, I had the responsibility to validate end to end functionality of my module.
+-->In this module, there are several pages like Home Page, Search page, Product Details Page, Add to Cart page, Payment page,etc. 
+-->So Initillay i will be in HOme page, in that I will be validating the Hero image and the offer coupons are displayed and 
+    i will be validating that user is able to search any product by search criteria. 
+-->Once user serach the product, it must be navigated to Search page, In that I will be validating user is able to see the 
+   related products with images,price,review,offers and filters. 
+-->Then I select a particular product which should be navigated to Product details page. 
+-->In that I will be verifying whether user is able to see the complete information the particular product like additional images, 
+   price, instock/out of stock, shipping types, colours, offers,add to cart, etc. 
+-->In that I add the product to the card and verify the product is added in the card page.
+-->Here I will be verifying user is able to increase the quantity of the product or remove the product. 
+-->Then I verify user is able to see the total amount of the selected products.
+-->Then In will be login by guest or using credentials, and it is navigated to payment page.
+-->Here I will be validating user is able to do payment with different types of payment modes and by giving address.
+-->THen I will be validating user is able to add or remove their cards.
+-->Once product is ordered, I will be moving to My orders page, in that I will be validating whether user is able to 
+   cancel the product, track the product or return.
+
+
+
+
+
+
+
+

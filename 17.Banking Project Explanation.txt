@@ -1,0 +1,36 @@
+Project Name:Ally Inc
+
+1.It's HeadQuaters is in Detroit Michigan(U.S)
+2.Ally Provides financial services including car finnance,vehicle insurance,mortgage loans.
+3.This Project Comes under Banking and Financial Domain(BFS).
+4.This projet uses Agile Methodology.
+5.Ally provides loans to vehicles which included both (Two-Wheelers and Four Wheelers).
+6.Ally also provides Vehicle insurance to its customers for both two wheelers and Four wheelers.
+7.Our Development Team will be Developing the application as per the business requirement and we will be automating it and testing the application.
+8.This Software Application will be used by the bank's people (i.e)who are working in bank for their internal purpose.
+9.In this Project there are 'n'number of modules are available like "Registration Module","Customer Vehicle Registration Module","Insurance policy module,"
+"Vehicle Loan Module","Mortgage Loan Module".
+10.In Registration Module we will be Validating the Customer's Name,Mobile Number,pan card(10 digits),passport Number,
+email id,Address,occupation details,Salary Details and also we will be validating the mandatory fields as well.
+11.In the Customer Vehicle Registration Module we will be Validating the  vehicle price and Vehicle Model.
+12.The Vehicle Models availabe in U.S will be available in the drop-down.We will be validating it too.
+13.ThE Customer Vehicle Registration Module consists of Vehicle Registration Date,Policy Start Date,Vehicle Price and so on.
+14.In Vehicle Insurance Module we will be validating the insurance type and the insurance types available,price and its coverages,insurance start date,
+insurance end date,insurance renewal date type of payment and so on.
+15.Coverage Details in Car insurance includes:
+      i)Bumper to Bumper
+      ii)Loss of Baggage
+      iii)Road Side Assistance
+      
+16)We will also be calculating  and validating the intrest % based on the customer's  salary package and the loan amount.
+
+
+Insurance:
+It is defined as a contract,which is called as a policy,in which an induvidual or organisation receives financial protection and reimbursement of damages 
+from insurer or the insurance company.At a very basic level it is some form of protection from any possible financial losses.
+
+Asset:
+An Asset is anything of value or resource of value that can be converted into cash.
+
+Debt:
+Debt is the amount of money Borrowed by a person from another party/bank.
